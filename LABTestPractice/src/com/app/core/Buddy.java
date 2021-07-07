@@ -8,6 +8,7 @@ private String name;
 private int phone;
 private LocalDate dob;
 private String city ;
+hello
 
 public Buddy(String email,String name,int phone,LocalDate dob,String city) 
 {
